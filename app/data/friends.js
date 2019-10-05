@@ -28,14 +28,30 @@ var tableArray = [
         "scores": [
             5,
             1,
-            4,
-            4,
+            3,
+            3,
             5,
             1,
-            2,
+            8,
             5,
             4,
             1
+        ]
+    },
+    {
+        "name": "Charles Lee 'Chucky' Ray",
+        "photo": "https://upload.wikimedia.org/wikipedia/en/7/72/Chucky_%28Child%27s_Play%29.jpg",
+        "scores": [
+            3,
+            1,
+            4,
+            3,
+            5,
+            1,
+            2,
+            2,
+            4,
+            5
         ]
     }
 ];
