@@ -54,6 +54,6 @@ Working web browser (e.g Chrome, Firefox, Safari, Opera, etc.) from the list of 
   * Stock browser on Android 4.0+
   * Safari on iOS 7+
 
-## Deployment
+## Deployment :space_invader:
 
 This application has been deployed using [Heroku](https://heroku.com).
